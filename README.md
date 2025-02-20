@@ -44,7 +44,9 @@ of leaving.
 
 ● Turnover risks are most significant in General Medicine and Outpatient services. 
 
-Practical Applications of the Case Study 
+
+
+### Applications of the Case Study 
 
  Workforce Retention Strategies: Hospitals can use these insights to develop 
 targeted interventions for high-burnout departments. 
