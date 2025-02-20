@@ -15,30 +15,33 @@ rates?
    
 4. What workplace factors contribute most to mental health absences?
    
-6. Do employees with access to Employee Assistance Programs (EAPs) show 
+5. Do employees with access to Employee Assistance Programs (EAPs) show 
 lower burnout and absenteeism rates.
 
 ## Dataset Insights for the Case Study 
 ✔ Burnout & Stress by Job Role: 
+
 ● Employees in ICU, General Medicine, and Outpatient Services report the highest stress 
 levels. 
 
-● Heavy Workload is the leading stress factor for clinical roles, while Career 
-Stagnation is a major issue for administrators. 
+● Heavy Workload is the leading stress factor for clinical roles, while Career Stagnation is a major issue for administrators. 
 
 ✔ Burnout's Impact on Job Satisfaction & Turnover: 
+
 ● Employees experiencing burnout often report low job satisfaction.
 
 ● 43% of employees show high burnout, with turnover rates significantly higher 
 among this group. 
 
 ✔ Mental Health Absences & EAP Access: 
+
 ● Employees without access to EAPs take more mental health-related absences. 
 
 ● The correlation suggests that providing EAPs could help mitigate workforce 
 burnout. 
 
 ✔ Turnover Intention Predictors: 
+
 ● Employees with stress levels of 7-10 and weak job satisfaction are at highest risk 
 of leaving. 
 
